@@ -1,7 +1,5 @@
 # Book Search Engine
 
-[![Badge for GitHub](https://img.shields.io/github/languages/top/davitshirkhanyan/book-search-engine1?style=flat&logo=appveyor)](https://davitshirkhanyan.github.io/book-search-engine/)
-
 ## Description
 
 Google Books API search engine was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. Other than searching for books, users can sign up and login their account to save their favorive books.
