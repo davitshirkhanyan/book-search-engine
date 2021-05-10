@@ -1,6 +1,6 @@
 # Book Search Engine
 
-[![Badge for GitHub](https://img.shields.io/github/languages/top/davitshirkhanyan/book-search-engine1?style=flat&logo=appveyor)](https://github.com/davitshirkhanyan/book-search-engine)
+[![Badge for GitHub](https://img.shields.io/github/languages/top/davitshirkhanyan/book-search-engine1?style=flat&logo=appveyor)](https://davitshirkhanyan.github.io/book-search-engine/)
 
 ## Description
 
