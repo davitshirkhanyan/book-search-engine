@@ -9,15 +9,10 @@ import { removeBookId } from '../utils/localStorage';
 
 const SavedBooks = () => {
   const { loading, data } = useQuery(GET_ME);
-  // eslint-disable-next-line
-  const [removeBook, { error }] = useMutation(REMOVE_BOOK);
+  
+  const [removeBook] = useMutation(REMOVE_BOOK);
 
   const userData = data?.me || {};
-
-  // use this to determine if `useEffect()` hook needs to run again
-  // eslint-disable-next-line
-  const userDataLength = Object.keys(userData).length;
-
 
   // create function that accepts the book's mongo _id value as param and deletes the book from the database
   const handleDeleteBook = async (bookId) => {
