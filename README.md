@@ -1,6 +1,6 @@
 # Book Search Engine
 
-[![Badge for GitHub](https://img.shields.io/github/languages/top/davitshirkhanyan/book-search-engine?style=flat&logo=appveyor)](https://book-heroku-search.herokuapp.com/)
+[![Badge for GitHub](https://img.shields.io/github/languages/top/davitshirkhanyan/book-search-engine1?style=flat&logo=appveyor)](https://book-heroku-search.herokuapp.com/)
 
 ## Description
 
